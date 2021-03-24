@@ -1,0 +1,8 @@
+torch
+sentencepiece
+tf_sentencepiece
+transformers
+langdetect
+translate-api
+sentence-transformers
+rouge

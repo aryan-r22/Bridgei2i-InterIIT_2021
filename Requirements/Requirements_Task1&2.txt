@@ -1,0 +1,8 @@
+transformers
+torch
+tweet-preprocessor
+bs4
+sentencepiece
+langdetect
+translate-api
+aspect-based-sentiment-analysis
