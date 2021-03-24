@@ -3,6 +3,10 @@ Group 14 -- H2_B21_14
 
 Coded by Aryan Rastogi with Vardhan Paliwal  
 
+## Using the files
+
+For Headline Generation(Task3 and Evaluation), first run the scripts ``Pegasus_FineTune.ipynb`` and ``T5_FineTune.ipynb`` to generate savedmodels for inference.  
+
 ## Submission output files
 The two output files, Output1 and Output2 are stored in the folder ```Outputs``` within the base directory.
 
