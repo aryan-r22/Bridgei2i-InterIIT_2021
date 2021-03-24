@@ -10,11 +10,11 @@ The two output files, Output1 and Output2 are stored in the folder ```Outputs```
 Of the four models we stated in our report for headline generation, we went with the ***Pegasus*** standalone model, by the virtue of better metrics across majority of the metrics.
 
 ## Running Time
-Task 1 takes 4.18 minutes (Theme Classification)
-Task 2 takes 4.25 minutes (Aspect based Sentiment Classification)
-Task 3 takes 33 minutes (Headline Generation)
+Task 1 takes 4.18 minutes (Theme Classification)  
+Task 2 takes 4.25 minutes (Aspect based Sentiment Classification)  
+Task 3 takes 33 minutes (Headline Generation)  
 Preprocessing may take a variable amount of time, depending upon the number of requests to the Google Translation API by a given IP Address, and may be impacted by unavailibility of service due to high amount of API requests (in the scenario of running the code multiple times). 
-{For stable runtimes of the translation process, the paid version of the API can be used. We, however, have used the open source version of the same, in accordance to the rules of the competition.}
+{For stable runtimes of the translation process, the paid version of the API can be used. We, however, have used the open source version of the same, in accordance to the rules of the competition.}  
 
 ## Structure
 The entire folder is arranged in the following manner:
