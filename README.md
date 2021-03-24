@@ -1,6 +1,8 @@
 # Bridge-i2i Problem Statement
 Group 14 -- H2_B21_14   
 
+Coded by Aryan Rastogi and Vardhan Paliwal  
+
 ## Submission output files
 The two output files, Output1 and Output2 are stored in the folder ```Outputs``` within the base directory.
 
