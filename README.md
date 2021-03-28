@@ -5,6 +5,8 @@ Got ***Silver Medal*** in the final result.
 
 ## Using the files
 
+For technical details about the project, refer to ``Technical Report.pdf`` and ``Presentation.pdf``.  
+
 For Headline Generation(Task3 and Evaluation), first run the scripts ``Pegasus_FineTune.ipynb`` and ``T5_FineTune.ipynb`` to generate savedmodels for inference.  
 
 ## Submission output files
