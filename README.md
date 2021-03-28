@@ -1,7 +1,7 @@
 # Bridge-i2i Problem Statement
 Group 14 -- H2_B21_14 (IIT-Indore)  
 
-Got ***Silver Medal*** in the final result(Rank 5).
+Got ***Silver Medal*** in the final result.
 
 ## Using the files
 
