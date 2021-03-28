@@ -1,8 +1,6 @@
 # Bridge-i2i Problem Statement
 Group 14 -- H2_B21_14   
 
-Coded by Aryan Rastogi with Vardhan Paliwal  
-
 ## Using the files
 
 For Headline Generation(Task3 and Evaluation), first run the scripts ``Pegasus_FineTune.ipynb`` and ``T5_FineTune.ipynb`` to generate savedmodels for inference.  
@@ -53,6 +51,11 @@ Contains training data as provided under the problem statement.
 ### 5. Evaluation Datasets
 Comprises of evaluation dataset as provided.
 
+## Team Members and their contribution:  
 
+Aryan Rastogi with Vardhan Paliwal coded the project, created the Presentation and contributed in the Technical Report.  
+Tarun Gupta served as the principal advisor for the entire project.  
+Aryan Verma and Smit Patel wrote the Technical Report.
+Manav Trivedi, Gadge Prafull, Yash Kothekar, Siddhesh Shelke and Shivprasad Kadam contributed to the Technical Report.  
 
                           
