@@ -1,5 +1,5 @@
 # Bridge-i2i Problem Statement
-Group 14 -- H2_B21_14   
+Group 14 -- H2_B21_14 (IIT-Indore)  
 
 Got ***Silver Medal*** in the final result(Rank 5).
 
