@@ -3,9 +3,9 @@ Group 14 -- H2_B21_14 (IIT-Indore)
 
 Got ***Silver Medal*** in the final result.
 
-## Using the files
-
 For technical details about the project, refer to ``Technical Report.pdf`` and ``Presentation.pdf``.  
+
+## Using the files
 
 For Headline Generation(Task3 and Evaluation), first run the scripts ``Pegasus_FineTune.ipynb`` and ``T5_FineTune.ipynb`` to generate savedmodels for inference.  
 
