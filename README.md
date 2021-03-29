@@ -7,7 +7,7 @@ For technical details about the project, refer to ``Technical Report.pdf`` and `
 
 ## Using the files
 
-For Headline Generation(Task3 and Evaluation), first run the scripts ``Pegasus_FineTune.ipynb`` and ``T5_FineTune.ipynb`` to generate savedmodels for inference.  
+For Headline Generation (Task3 and Evaluation), first run the scripts ``Pegasus_FineTune.ipynb`` and ``T5_FineTune.ipynb`` to generate savedmodels for inference.  
 
 ## Submission output files
 The two output files, Output1 and Output2 are stored in the folder ```Outputs``` within the base directory.
