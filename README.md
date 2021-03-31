@@ -33,26 +33,26 @@ There are five notebook scripts located in the base directory. A short descripti
 4. **T5_FineTune.ipynb**: Used to fine tune T5 model for summarization task on the given dataset.
 5. **Evaluation.ipynb**: Used for evaluation of the testing data. Contains code for all three tasks.
 
-### 5. Output Submission
+### 2. Output Submission
 Consists of two output files: Output1 and Output2. A description about them is as follows:
 1. **Output1.csv**: Contains TextID, Predicted Labels, and generated headlines.
 2. **Output2.csv**: Contains TextID, Predicted Labels and Extracted Brands and their sentiments.
 3. **Preprocessed_Text.csv**: Consists of text data post preprocessing and translation. Located in the base directory
 
 
-### 2. Saved Models
+### 3. Saved Models
 There are three folders containg saved models finetuned on the training dataset. They are:
 1. **T5**: Contains T5 finetuned model for Headline Generation.
 2. **DistilBERT**: Contains DistilBERT finetuned model for Theme Classification
 3. **Pegasus**: Contains Pegasus finetuned model for Headline Generation.
 
-### 3. Requirements
+### 4. Requirements
 The requirements folder comprises of five ``txt`` files, containing required libraries version for each of the five notebooks mentioned above.
 
-### 4. Development Data
+### 5. Development Data
 Contains training data as provided under the problem statement.
 
-### 5. Evaluation Datasets
+### 6. Evaluation Datasets
 Comprises of evaluation dataset as provided.
 
 ## Team Members and their contribution:  
