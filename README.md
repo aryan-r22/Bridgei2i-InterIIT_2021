@@ -55,6 +55,9 @@ Contains training data as provided under the problem statement.
 ### 6. Evaluation Datasets
 Comprises of evaluation dataset as provided.
 
+### 7. Results  
+Contains position standings for the entire event.  
+
 ## Team Members and their contribution:  
 
 Team Leader - **Aryan Verma**
